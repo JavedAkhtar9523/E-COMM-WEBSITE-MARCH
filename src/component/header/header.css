@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.log{
+    width: 98%;
+    height: 50px;
+    border: 1px solid black;
+    background-color: burlywood;
+}
